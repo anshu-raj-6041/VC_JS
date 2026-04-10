@@ -7,6 +7,18 @@ let b = 10;
 const c = 15;
 const d = "India";
 
-console.log(c);
-console.log(d);
+// console.log(c);
+// console.log(d);
+
+
+// objects
+const student = {
+    name : "Modi",
+    age : 65
+}
+student["marks"] = 100
+
+console.log(student);
+// console.log(student["age"]);
+
 
